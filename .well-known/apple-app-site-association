@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "SR5X3YFNXR.com.crossrope.crossropeApp",
-        "paths": ["*"]
+        "paths": ["*","/"]
       }
     ]
   }
