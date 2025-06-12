@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ca.awesome.travis.crossrope.crossrope",
+      "sha256_cert_fingerprints": [
+        "AD:45:D8:2C:BF:B0:A8:E3:CC:4E:AC:02:1B:C4:9F:48:F6:9A:18:14:61:E2:BA:B3:F6:4F:F0:AB:4C:20:F5:A8"
+      ]
+    }
+  }
+]
